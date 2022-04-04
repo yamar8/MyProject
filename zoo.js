@@ -141,4 +141,4 @@ function codeInput() {
 
 // addAnimal("monkey", 12);
 // searchByCode(1);
-// // addAnimal("lion",12);
+// // addAnimal("lion",12);change.
